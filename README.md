@@ -1,2 +1,3 @@
 # theOneAboutMVVM
-Hackathon project
+
+Understanding the architecture pattern
